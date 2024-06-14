@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\Cinema\Cinema\bin\Debug\net8.0\Cinema.exe
+C:\Users\ninag\RiderProjects\Cinema\Cinema\bin\Debug\net8.0\Cinema.deps.json
+C:\Users\ninag\RiderProjects\Cinema\Cinema\bin\Debug\net8.0\Cinema.runtimeconfig.json
+C:\Users\ninag\RiderProjects\Cinema\Cinema\bin\Debug\net8.0\Cinema.dll
+C:\Users\ninag\RiderProjects\Cinema\Cinema\bin\Debug\net8.0\Cinema.pdb
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.dll
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\refint\Cinema.dll
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.pdb
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\Cinema.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\Cinema\Cinema\obj\Debug\net8.0\ref\Cinema.dll
